@@ -12,7 +12,7 @@ import numpy as np
 import math
 
 #%%
-#Shear Force Point Load code
+#SHEAR FORCE GRAPH CODE
 
 #Define constants
 a = 0.260
